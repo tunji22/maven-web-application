@@ -9,7 +9,7 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Landmark Software Solutions, Houston and Dallas, USA Office.</h1>
+<h1 align="center">Welcome to Landmark Software Solutions, Houston Texas, USA Office.</h1>
 <h1 align="center">We are developing and supporting quality  Software Solutions to billions of clients.
 	We offer  Training for DevOps with Linux and Cloud equipping IT Engineers for best performance.</h1>
 <hr>

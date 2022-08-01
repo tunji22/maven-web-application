@@ -9,9 +9,9 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Landmark Software Solutions, Dallas Texas, USA Office.</h1>
-<h1 align="center">We are developing and supporting quality  Software Solutions to 10 Billions of clients.
-	We offer  Training for DevOps with Linux and Cloud equipping IT Engineers for best performance.</h1>
+<h1 align="center">Welcome to Landmark Software Solutions, Houston & Dallas Texas, USA Office.</h1>
+<h1 align="center">We are developing and supporting quality  Software Solutions to 4 Billions of clients.
+	We offer  Training for DevOps with Linux Distributions and Cloud equipping IT Engineers for best performance.</h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
